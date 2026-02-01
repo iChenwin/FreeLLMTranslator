@@ -1,0 +1,15 @@
+{
+    "current_provider": "baidu",
+    "providers": {
+        "qwen": {
+            "api_key": "your_qwen_api_key",
+            "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+            "model": "qwen-plus"
+        },
+        "baidu": {
+            "appid": "your_baidu_appid",
+            "api_key": "your_baidu_api_key",
+            "model_type": "llm"
+        }
+    }
+}
